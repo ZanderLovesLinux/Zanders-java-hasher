@@ -1,2 +1,4 @@
 # Zanders-java-hasher
 A simple hashing program that creates a 16 character hash
+
+It's a hasher! It turns a string into a unique 16 character hexidecimal code. I've been getting into cyber (I should learn c++ i know i know) and I like it a lot. Lmk if this is like good at all. Also, I'm working on a remake of an improved version of my username and password checker with a bunch of new features, and this WILL be one of them (passwords will be hashed instead of plainwritten)
